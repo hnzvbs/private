@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "colors": "^1.4.0",
+        "dotenv": "^16.0.3",
+        "fs": "0.0.1-security",
+        "inquirer": "^6.5.0",
+        "instagram-private-api": "^1.45.3",
+        "lodash": "^4.17.21",
+        "moment": "^2.29.1",
+        "open": "^8.4.0",
+        "opn": "^6.0.0",
+        "user-home": "^2.0.0",
+        "util": "^0.12.5"
+    }
+}
